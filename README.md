@@ -94,6 +94,9 @@ Animated UI logic
 • Behavioral automation  
 • Predictive intent detection  
 
+> Built in under 2 hours as a rapid concept prototype.
+
+
 ---
 
 ## Author
